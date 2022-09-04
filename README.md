@@ -1,5 +1,6 @@
 # SurvivalGame
 A survival game which player must collect all the stuff by killing various animals in various locations to finish the game.
+
 -> The purpose is to use inheritance and understand it more.
 
 # Screenshots :
